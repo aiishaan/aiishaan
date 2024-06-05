@@ -1,4 +1,4 @@
-# Hi there, I'm [Aishan] 👋
+# Hi there, I'm Aishan 👋
 
 Welcome to my GitHub profile! I'm a Computer Science student passionate about software development, open source, and continuous learning.
 
