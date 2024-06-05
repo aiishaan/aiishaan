@@ -47,4 +47,4 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aishan-irfan-b49b37136/)
 - [Twitter](https://twitter.com/sannpanis)
-- [Personal Website/Blog](https://aishanirfan.netlify.app/)
+- [Personal Website](https://aishanirfan.netlify.app/)
