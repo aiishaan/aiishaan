@@ -1,6 +1,6 @@
 # Hi there, I'm Aishan 👋
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about software development, open source, and continuous learning.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about software development, open source, and continuous learning
 
 ## About Me
 - 🎓 Currently studying Computer Science at University of Calgary
