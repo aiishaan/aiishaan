@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 - 📫 How to reach me: [portfolio/aishan](https://aishanirfan.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/aishan-irfan-b49b37136/)
 
 ## Skills
-- **Programming Languages:** Python, Java, JavaScript, TypeScript, Go, C, C++
+- **Programming Languages:** TypeScript, JavaScript, Go, Python, Java, C, C++
 - **Web Development:** HTML, CSS, React, Node.js, Next.js, Tailwind CSS
 - **Databases:** MySQL, MongoDB, PostgreSQL, Firestore, Redis
 - **Tools & Platforms:** Git, Docker, AWS, Unix, Figma, ORMs
