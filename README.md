@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about so
 - 🎓 Currently studying Computer Science at University of Calgary
 - 🌱 Learning about artificial intelligence and full-stack development
 - 💼 Open to internships and collaboration on exciting projects
-- 📫 How to reach me: [portfolio/aishan](https://aishanirfan.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/aishan-irfan-b49b37136/)
+- 📫 How to reach me: [portfolio/aishan](https://aishanirfan.netlify.app../) or [LinkedIn](https://www.linkedin.com/in/aishan-irfan-b49b37136/)
 
 ## Skills
 - **Programming Languages:** TypeScript, JavaScript, Go, Python, Java, C, C++
